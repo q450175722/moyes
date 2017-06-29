@@ -1,0 +1,540 @@
+{
+	"main1":[
+		{
+		"name":"main1-left",
+		"id":"main1-left1",
+		"img":"img/1.jpg"
+		},
+		{
+		"name":"main1-left",
+		"id":"main1-left2",
+		"img":"img/2.jpg"
+		},
+		{
+		"name":"main1-center",
+		"id":"main1-center1",
+		"img":"img/3.jpg"
+		},
+		{
+		"name":"main1-center",
+		"id":"main1-center2",
+		"img":"img/4.jpg"
+		},
+		{
+		"name":"main1-center",
+		"id":"main1-center3",
+		"img":"img/5.jpg"
+		},
+		{
+		"name":"main1-center",
+		"id":"main1-center4",
+		"img":"img/6.jpg"
+		},
+		{
+		"name":"main1-right",
+		"id":"main1-right1",
+		"img":"img/7.jpg"
+		},
+		{
+		"name":"main1-right",
+		"id":"main1-right2",
+		"img":"img/8.jpg"
+		}
+	],
+	"main2":[
+		{
+		"name":"main2",
+		"id":"main2-1",
+		"img":"img/web-615-629-3.jpg"
+		},
+		{
+		"name":"main2",
+		"id":"main2-2",
+		"img":"img/web-615-629-1.jpg"
+		},
+		{
+		"name":"main2",
+		"id":"main2-3",
+		"img":"img/web-615-629-2.jpg"
+		}
+		],
+		"main3":[
+		{
+		"name":"main3",
+		"id":"main3-1",
+		"img":"img/web-616-633-1.jpg"
+		},
+		{
+		"name":"main3",
+		"id":"main3-2",
+		"img":"img/web-616-633-2.jpg"
+		},
+		{
+		"name":"main3",
+		"id":"main3-3",
+		"img":"img/web-616-633-3.jpg"
+		}
+		],
+		"main4":[
+			{
+			"name":"main4-top",
+			"id":"main4-top",
+			"img":"img/web-4-41.png",
+			"value":"粮油杂货"
+			},
+			{
+			"name":"main4-bottom-left",
+			"commodity":"【农谷鲜】 农家自产稻花香米 5kg 原生态无公害大米 非转基因",
+			"id":"main4-left",
+			"img":"img/web-4-48-1.jpg",
+			"price":"¥ 27.9",
+			"originalcost":"¥ 37.90"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"中粮福临门 一级大豆油1.8L 多重营养食用油 富含维生素ED易吸收",
+			"id":"main4-right1",
+			"img":"img/45_05475823267064031_240.jpg",
+			"price":"¥ 25.90",
+			"originalcost":" ¥ 29.00"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"中粮初萃压榨葵花籽油 食用油5L 不添加抗氧化剂清淡工艺",
+			"id":"main4-right2",
+			"img":"img/45_05458472163236616_240.jpg",
+			"price":" ¥ 69.90",
+			"originalcost":"¥ 75.80"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"中粮初萃葵花籽油 食用油1.8L 天山油葵 富含维生素E",
+			"id":"main4-right3",
+			"img":"img/web-4-48-2.jpg",
+			"price":" ¥ 32.00",
+			"originalcost":"¥ 36.00"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"中粮悠采澳洲五谷燕麦片480g 黑谷薏米玉米脆片 办公标配开水冲泡",
+			"id":"main4-right4",
+			"img":"img/45_05464388693101916_240.jpg",
+			"price":"¥ 30.00",
+			"originalcost":"¥ 35.00"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"中粮初萃杂粮礼盒3200g 生态种植五谷豆米粗粮 福利客户赠礼团购",
+			"id":"main4-right5",
+			"img":"img/45_05453989534405364_240.jpg",
+			"price":" ¥ 86.90",
+			"originalcost":"¥ 90.00"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"芷睿 湖北籼米 鱼米之乡优质稻米5kg",
+			"id":"main4-right6",
+			"img":"img/45_05453384706333011_240.jpg",
+			"price":"¥ 25.50",
+			"originalcost":"¥ 38.00"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"湖北京山禾之果大米桥米黄花粘长粒软糯香米5kg包邮",
+			"id":"main4-right8",
+			"img":"img/118_05496413035945706_240.jpg",
+			"price":"¥ 45.00",
+			"originalcost":"¥ 69.00"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"金禾圣京山桥米537 1.5kg真空装",
+			"id":"main4-right9",
+			"img":"img/147_05509292314178371_240.jpg",
+			"price":"¥ 19.90",
+			"originalcost":"¥ 68.00"
+			},
+			{
+			"name":"main4-bottom-right",
+			"commodity":"中粮福临门赋香稻大米5kg 天赋醇正自然稻香 五常大米纯正新米",
+			"id":"main4-right7",
+			"img":"img/146_05502549189253804_240.jpg",
+			"price":"¥ 59.90",
+			"originalcost":"¥ 76.00"
+			}
+		
+		],
+		"main5":[
+			{
+			"name":"main5-top",
+			"id":"main5-top",
+			"img":"img/main51.png",
+			"value":"生鲜果蔬"
+			},
+			{
+			"name":"main5-bottom-left",
+			"commodity":"大别山红金果 极品红心马铃薯 新鲜红心土豆 5斤装",
+			"id":"main5-left",
+			"img":"img/main52.jpg",
+			"price":"¥ 31.00",
+			"originalcost":"¥ 39.90"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"【特价预售】红石谷樱桃沟大红灯大樱桃1500g 22mm-26mm 坏果包赔",
+			"id":"main5-right1",
+			"img":"img/main53.jpg",
+			"price":"¥ 59.90",
+			"originalcost":" ¥ 120.00"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"青石 有机种植樱桃2Kg EMS速递包邮",
+			"id":"main5-right2",
+			"img":"img/main54.png",
+			"price":"  ¥ 198.00",
+			"originalcost":"¥ 288.00"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"新疆哈密瓜 新鲜水果吐鲁番西州蜜17号甜瓜 1个装约4-5斤",
+			"id":"main5-right3",
+			"img":"img/main55.jpg",
+			"price":" ¥ 32.90",
+			"originalcost":"¥ 79.90"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"老口味香瓜",
+			"id":"main5-right4",
+			"img":"img/main56.jpg",
+			"price":"¥ 158.00",
+			"originalcost":"¥ 189.00"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"【迷你果5斤】摘现发秭归脐橙夏橙 孕妇水果橙子约28个左右",
+			"id":"main5-right5",
+			"img":"img/main57.jpg",
+			"price":" ¥ 29.90",
+			"originalcost":"¥ 49.00"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"神农架林区农家自种新鲜土豆 黄心小土豆5斤装包邮 现挖现发 限1000份",
+			"id":"main5-right6",
+			"img":"img/main58.jpg",
+			"price":"¥ 9.90",
+			"originalcost":"¥ 36.90"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"【预售】 柚子大王 丹霞谢柚 4个装/箱 果径55CM左右 10斤左右",
+			"id":"main5-right8",
+			"img":"img/main59.jpg",
+			"price":"¥ 158.00",
+			"originalcost":"¥ 198.00"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"潜江小龙虾 油焖/蒜蓉口味任选 熟食3斤/份 5-7钱/只",
+			"id":"main5-right9",
+			"img":"img/main510.jpg",
+			"price":"¥ 168.00",
+			"originalcost":"¥ 198.00"
+			},
+			{
+			"name":"main5-bottom-right",
+			"commodity":"新鲜红皮香蕉美人蕉福建土楼特产营养水果田园新采割5斤包邮",
+			"id":"main5-right7",
+			"img":"img/main511.jpg",
+			"price":"¥ 36.90",
+			"originalcost":"¥ 69.00"
+			}
+		
+		],
+		"main6":[
+			{
+			"name":"main6-top",
+			"id":"main6-top",
+			"img":"img/xiuxian1.png",
+			"value":"休闲零食"
+			},
+			{
+			"name":"main6-bottom-left",
+			"commodity":"【包邮】卫龙辣条 豆干大面筋亲嘴烧豆皮零食礼包麻1448g",
+			"id":"main6-left",
+			"img":"img/xiuxian2.jpg",
+			"price":"¥ 31.90",
+			"originalcost":"¥ 42.80"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"【4罐】出口品质 糖水橘子罐头425g*4 新鲜水果柑橘蜜桔橘子罐头",
+			"id":"main6-right1",
+			"img":"img/xiuxian3.jpg",
+			"price":" ¥ 25.50",
+			"originalcost":" ¥ 36.90"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"襄梦牌 零食馍片350g 五香味 烤馍片 无莫愁馒头片",
+			"id":"main6-right2",
+			"img":"img/xiuxian4.jpg",
+			"price":" ¥ 13.80",
+			"originalcost":"¥ 26.00"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"土耳其（Torku）进口零食榛子酱夹心饼干68克",
+			"id":"main6-right3",
+			"img":"img/xiuxian5.jpg",
+			"price":"¥ 7.50",
+			"originalcost":"¥ 10.00"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"寻滇集，云南甘蔗糖，出口日本11年 痛经暖宫女生玫瑰红糖220g*2",
+			"id":"main6-right4",
+			"img":"img/xiuxian6.jpg",
+			"price":"¥ 42.80",
+			"originalcost":"¥ 59.00"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"华美 营养早餐饼干 800克*2箱 量贩装",
+			"id":"main6-right5",
+			"img":"img/xiuxian7.jpg",
+			"price":" ¥ 19.90",
+			"originalcost":"¥ 25.90"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"一致金针菇香辣500g四川特产香菇小包装麻辣零食下饭菜",
+			"id":"main6-right6",
+			"img":"img/xiuxian8.jpg",
+			"price":"¥ 22.90",
+			"originalcost":"¥ 45.90"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"即食小零食手撕腊肉丝恩施特产小吃香辣味22g*5袋 包邮",
+			"id":"main6-right8",
+			"img":"img/xiuxian9.jpg",
+			"price":"¥ 13.90",
+			"originalcost":"¥ 19.00"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"【神农架】脱水紫薯低温烘焙紫薯丁 原味休闲零食紫薯条150g",
+			"id":"main6-right9",
+			"img":"img/xiuxian10.jpg",
+			"price":" ¥ 15.90",
+			"originalcost":"¥ 39.00"
+			},
+			{
+			"name":"main6-bottom-right",
+			"commodity":"【包邮】卫龙辣条 豆干大面筋亲嘴烧豆皮零食礼包麻1448g",
+			"id":"main6-right7",
+			"img":"img/xiuxian11.jpg",
+			"price":"¥ 31.90",
+			"originalcost":"¥ 42.80"
+			}
+		
+		],
+		"main7":[
+			{
+			"name":"main7-top",
+			"id":"main7-top",
+			"img":"img/dannai1.png",
+			"value":"蛋奶速食"
+			},
+			{
+			"name":"main7-bottom-left",
+			"commodity":"黄桃对开水果罐头 新鲜糖水黄桃罐头休闲零食 4罐*425g",
+			"id":"main7-left",
+			"img":"img/dannai2.jpg",
+			"price":"¥ 29.90",
+			"originalcost":"¥ 39.00"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"【包邮】湖北黄冈特产黄梅农家手工咸蛋真空独立包装10枚装",
+			"id":"main7-right1",
+			"img":"img/dannai3.jpg",
+			"price":" ¥ 29.90",
+			"originalcost":" ¥ 39.00"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"【20枚包泥】微山湖松花蛋 无铅皮蛋20枚包邮",
+			"id":"main7-right2",
+			"img":"img/dannai4.jpg",
+			"price":" ¥ 31.90",
+			"originalcost":"¥ 39.90"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"汉美特 蕲春艾草之都 大别山麓 山林散养土鸡蛋 30枚",
+			"id":"main7-right3",
+			"img":"img/dannai5.jpg",
+			"price":"¥ 29.80",
+			"originalcost":"¥ 39.90"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"万星 高筋鸡蛋风味挂面 1000g*2袋 风味挂面 营养健康美味",
+			"id":"main7-right4",
+			"img":"img/dannai6.jpg",
+			"price":" ¥ 18.00",
+			"originalcost":" ¥ 28.00"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"万星 武穴佛手山药面 1000g*3筒 湖北特产 干挂面条 速食米面",
+			"id":"main7-right4",
+			"img":"img/dannai6.jpg",
+			"price":" ¥ 45.80",
+			"originalcost":"¥ 55.80"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"新品 雨润王中王30g*8支*3袋装 特级火腿肠大肉粒 特级肠泡面搭档 休闲零食",
+			"id":"main7-right5",
+			"img":"img/dannai7.jpg",
+			"price":"¥ 24.90",
+			"originalcost":"¥ 28.00"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"大汉口 正宗武汉热干面 川味湘味热干面组合装 共16包",
+			"id":"main7-right6",
+			"img":"img/dannai8.jpg",
+			"price":"¥ 55.80",
+			"originalcost":"¥ 79.60"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"盼盼 法式小面包玉米味 440g*3袋 西式糕点面包早餐点心下午茶点",
+			"id":"main7-right8",
+			"img":"img/dannai9.jpg",
+			"price":"¥ 38.50",
+			"originalcost":" ¥ 45.60"
+			},
+			{
+			"name":"main7-bottom-right",
+			"commodity":"喜之郎 蜜桔果肉果冻大袋 990g",
+			"id":"main7-right9",
+			"img":"img/dannai10.jpg",
+			"price":"¥ 25.90",
+			"originalcost":"¥ 35.90"
+			}
+		
+		],
+		"main8":[
+			{
+			"name":"main8-top",
+			"id":"main8-top",
+			"img":"img/jiushui1.png",
+			"value":"酒水饮品"
+			},
+			{
+			"name":"main8-bottom-left",
+			"commodity":"【英博百威】 金龙泉雪豹系列啤酒 500ML*9罐（高灌装）口味纯正【共计4.",
+			"id":"main8-left",
+			"img":"img/jiushui2.jpg",
+			"price":"¥ 21.90",
+			"originalcost":"¥ 29.90"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"【神农架】高山水源 纯正无添加天然四季水 500ml*8瓶",
+			"id":"main8-right1",
+			"img":"img/jiushui3.jpg",
+			"price":"¥ 28.00",
+			"originalcost":"¥ 48.00"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"孔乙己滋养型十年陈黄酒500ml",
+			"id":"main8-right2",
+			"img":"img/jiushui4.jpg",
+			"price":"  ¥ 79.00",
+			"originalcost":"¥ 100.00"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"谷丰源酸梅膏 酸梅汤 浓缩汁果味饮料乌梅汁酸梅汤原料1.38kg 两瓶装",
+			"id":"main8-right3",
+			"img":"img/jiushui5.jpg",
+			"price":"¥ 29.90",
+			"originalcost":"¥ 45.90"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"希之源一榨鲜玉米汁428g*2瓶杂粮饮品营养健康饮料夏季粗粮果蔬汁",
+			"id":"main8-right4",
+			"img":"img/jiushui6.png",
+			"price":"¥ 20.00",
+			"originalcost":"¥ 30.00"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"MIKO 鸡尾酒 275ml*3瓶（葡萄味+蓝玫瑰味+青柠味）",
+			"id":"main8-right5",
+			"img":"img/jiushui7.jpg",
+			"price":"¥ 38.50",
+			"originalcost":"¥ 48.90"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"法国原瓶进口红酒 欧丝斐干红葡萄酒 750ml",
+			"id":"main8-right8",
+			"img":"img/jiushui8.jpg",
+			"price":"¥ 58.00",
+			"originalcost":"¥ 198.00"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"湖北黄冈特产巴河纯手工无糖藕粉250g/罐",
+			"id":"main8-right9",
+			"img":"img/jiushui9.jpg",
+			"price":"¥ 35.00",
+			"originalcost":"¥ 49.00"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"盼盼 在益起 乳酸菌饮料 338ml*24瓶/箱",
+			"id":"main8-right7",
+			"img":"img/jiushui10.jpg",
+			"price":"¥ 96.00",
+			"originalcost":"¥ 120.00"
+			},
+			{
+			"name":"main8-bottom-right",
+			"commodity":"劲牌劲酒 皇宫人参酒42度 500ml 六瓶整箱 白酒 保健酒",
+			"id":"main8-right6",
+			"img":"img/jiushui11.jpg",
+			"price":"¥ 299.00",
+			"originalcost":"¥ 598.00"
+			}
+		
+		]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

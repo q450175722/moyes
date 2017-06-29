@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>美国购物网-海外品牌代购网站|奢侈品名牌网站_代购第一门户网站_美国代购Coach|美国代购LV|美国化妆品代购</title>
+    <meta name="description" content="美国购物网是提供美国代购服务的第一门户,海外品牌代购的首选网站;美国直邮,免美国消费税,100%正品;提供coach,保健品,化妆品,手表等最新海外奢侈品名品折扣优惠,每天更新最新的海淘折扣促销信息！" />
+    <meta name="keywords" content="代购,美国代购,美国代购网,美国购物网,海淘,美国代购网站,美国直邮网,正品代购,奢侈品代购,名品折扣,名品折扣网,折扣网,品牌代购,品牌打折,美国购物网站,国际代购,网络代购,美国网上购物" />
+    <link rel="stylesheet" type="text/css" href="css/reset.css"/>
+    <link rel="stylesheet" type="text/less" href="css/uShop.less"/>
+
+    <script type="text/javascript" src="node_modules/less/dist/less.js"></script>
+    <script type="text/javascript" src="node_modules/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="js/uShop.js"></script>
+
+</head>
+
+<body>
+<!--网页头部 公共区域-->
+<div id="w_header">
+    <div id="h_topbg">
+        <div id="h_top">
+            <span class="onesp"><em class="iconfont">&#xe63b;</em> 您好，欢迎光临美国购物网！</span>
+            <a href="javascript:;"> 请登录 <span>&nbsp;|</span></a>
+            <a href="javascript:;"> 快速注册 </a>
+            <ul class="mg01 clear">
+                <li>
+                    我的美购<em class="iconfont">&#xe6b4;</em>
+                    <ul class="myMg">
+                        <li class="active">我的订单</li>
+                        <li>我的代购单</li>
+                        <li>我的收藏夹</li>
+                        <li>我的代金券</li>
+                        <li>我的积分</li>
+                    </ul>
+                </li>
+                <li><em class="iconfont">&#xe632;</em>填写代购单<span>&nbsp;&nbsp;|</span></li>
+                <li>帮助中心<span>&nbsp;&nbsp;|</span></li>
+                <li>English</li>
+                <li> <em class="iconfont">&#xe605;</em>收藏本站</li>
+            </ul>
+        </div>
+    </div>
+    <div id="h_centerbg">
+        <div id="h_center">
+            <div id="logo">
+                <h1><a href="javascript:;">美国购物网-海外品牌代购网站|奢侈品名牌网站_代购第一门户网站_美国代购Coach|美国代购LV|美国化妆品代购</a></h1>
+            </div>
+            <div id="search_bg">
+                <input type="text" id="search"/>
+                <input type="button" value="搜索" placeholder="请输入品牌或商品名称" id="btn_search"/>
+                <em class="iconfont">&#xe6c4;<span>&nbsp;|</span></em>
+                <ul id="hotWord">
+                    <li>热门搜索：</li>
+                    <li style="color:#cc0000">百傲钙</li>
+                    <li style="color:#cc0000">Coach新款</li>
+                    <li>CK</li>
+                    <li>GNC</li>
+                    <li>拉夫劳伦</li>
+                    <li>Michael kors</li>
+                </ul>
+            </div>
+            <div id="shopCart">
+                <em class="iconfont">&#xe621;</em>
+                <span>我的购物车</span>
+                <em class="iconfont">&#xe623;</em>
+                <div id="shoping">您还没有购买商品，快去挑选吧！</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="h_bottombg">
+        <div id="h_bottom">
+            <div id="nav_a">
+                <span><em class="iconfont">&#xe6b9;</em>&nbsp;&nbsp;&nbsp;全部商品分类</span>
+                <div id="nav_abg">
+                    <ul id="nav_a1">
+                        <li>服饰</li>
+                        <li>鞋靴</li>
+                        <li>箱包</li>
+                        <li>配饰</li>
+                        <li>饰品</li>
+                        <li>手表</li>
+                        <li>眼镜</li>
+                        <li>护肤</li>
+                        <li>香水</li>
+                        <li>彩妆</li>
+                        <li>男士护理</li>
+                        <li>营养保健</li>
+                        <li>呼吸机及配件</li>
+                    </ul>
+                    <ul id="nav_a2">
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">上衣</a>
+                            <a href="javascript:;">T恤</a>
+                            <a href="javascript:;">衬衫</a>
+                            <a href="javascript:;">正装</a>
+                            <a href="javascript:;">外套</a>
+                            <a href="javascript:;">毛衣</a>
+                            <a href="javascript:;">裤装</a>
+                            <a href="javascript:;">裙装</a>
+                            <a href="javascript:;">内衣</a>
+                            <a href="javascript:;">女童装</a>
+                            <a href="javascript:;">男童装</a>
+                        </li>
+
+                    </ul>
+                    <div id="nav_a3">
+                        <ul id="nav_a3u">
+                            <li>
+                                <img src="images/main_r/mian_r5_c7.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r5_c9.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r5_c11.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r5_c13.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r7_c7.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r7_c9.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r7_c11.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r7_c13.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r9_c7.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r9_c9.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r9_c11.jpg">
+                            </li>
+                            <li>
+                                <img src="images/main_r/mian_r9_c13.jpg">
+                            </li>
+
+                        </ul>
+                        <div id="fcous1">
+                            <img src="images/lb_af.jpg" alt="美图">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <ul id="nav_b">
+                <li>首页</li>
+                <li>服装鞋类</li>
+                <li>箱包配饰</li>
+                <li>营养保健</li>
+                <li>3天到货</li>
+                <li><img src="images/rebate.jpg" alt=""></li>
+            </ul>
+
+        </div>
+    </div>
+</div>
+
+<!--公共头部结束-->
+
+
+
+
+
+
+
+
+
+
+
+<!--公共页脚开始-->
+
+<div id="w_footerbg">
+    <div id="footer">
+        <ul id="foot1">
+            <li>
+                <span>
+                    <img src="images/yejiao/ye_r8_c3.jpg" alt="">
+                </span>
+                <span>
+                    <i>美国<b>直邮</b></i><br><br>
+                    <strong>国际快递，美国本土发货</strong>
+                </span>
+            </li>
+            <li>
+                <span>
+                    <img src="images/yejiao/ye_r8_c11.jpg" alt="">
+                </span>
+                <span>
+                    <i><b>100%</b>正品保证</i><br><br>
+                    <strong>美国本土采购，正品保证</strong>
+                </span>
+            </li>
+            <li>
+                <span>
+                    <img src="images/yejiao/ye_r8_c22.jpg" alt="">
+                </span>
+                <span>
+                    <i><b>免</b>消费税</i><br><br>
+                    <strong>合法规避在美消费税</strong>
+                </span>
+            </li>
+            <li>
+                <span>
+                    <img src="images/yejiao/ye_r8_c34.jpg" alt="">
+                </span>
+                <span>
+                    <i><b>vip</b>退换货通道</i><br><br>
+                    <strong>跨境无忧购物</strong>
+                </span>
+            </li>
+            <li>
+                <span>
+                    <img src="images/yejiao/ye_r8_c47.jpg" alt="">
+                </span>
+                <span>
+                    <i><b>中文</b>导航</i><br><br>
+                    <strong>消除语言障碍</strong>
+                </span>
+            </li>
+        </ul>
+        <ul id="foot2">
+            <li class="str">帮助中心</li>
+            <li class="str">支付方式</li>
+            <li class="str">会员机制</li>
+            <li class="str">网站地图</li>
+            <li class="str">关于我们</li>
+            <li class="str">服务中心</li>
+            <li class="str">关注我们</li>
+        </ul>
+        <div id="foot3">
+            <ul>
+                <li>
+                    <a href="javascript:;">代购流程</a>
+                </li>
+                <li>
+                    <a href="javascript:;">配送方式</a>
+                </li>
+                <li>
+                    <a href="javascript:;">代金券使用</a>
+                </li>
+                <li>
+                    <a href="javascript:;">砂虎三方</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="javascript:;">代购流程</a>
+                </li>
+                <li>
+                    <a href="javascript:;">配送方式</a>
+                </li>
+                <li>
+                    <a href="javascript:;">代金券使用</a>
+                </li>
+                <li>
+                    <a href="javascript:;">砂虎三方</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="javascript:;">代购流程</a>
+                </li>
+                <li>
+                    <a href="javascript:;">配送方式</a>
+                </li>
+                <li>
+                    <a href="javascript:;">代金券使用</a>
+                </li>
+                <li>
+                    <a href="javascript:;">砂虎三方</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="javascript:;">代购流程</a>
+                </li>
+                <li>
+                    <a href="javascript:;">配送方式</a>
+                </li>
+                <li>
+                    <a href="javascript:;">代金券使用</a>
+                </li>
+                <li>
+                    <a href="javascript:;">砂虎三方</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="javascript:;">代购流程</a>
+                </li>
+                <li>
+                    <a href="javascript:;">配送方式</a>
+                </li>
+                <li>
+                    <a href="javascript:;">代金券使用</a>
+                </li>
+                <li>
+                    <a href="javascript:;">砂虎三方</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="javascript:;">代购流程</a>
+                </li>
+                <li>
+                    <a href="javascript:;">配送方式</a>
+                </li>
+                <li>
+                    <a href="javascript:;">代金券使用</a>
+                </li>
+                <li>
+                    <a href="javascript:;">砂虎三方</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <img src="images/yejiao/ye_r10_c46.jpg" >
+                </li>
+                <li>
+                    <img src="images/yejiao/ye_r10_c52.jpg" >
+                </li>
+            </ul>
+        </div>
+        <span id="foot4">Copyright 2005-2017 美国购物网 All Rights Reserved 鲁ICP备11012501号  &nbsp;&nbsp; <img src="images/beianimg.png">   &nbsp; &nbsp;鲁公网安备 37010202000884号</span>
+        <ul id="foot5">
+            <li>
+                <img src="images/yejiao/ye_r19_c10.jpg" >
+            </li>
+            <li>
+                <span>
+                    <img src="images/yejiao/ye_r17_c18.jpg" alt="">
+                </span>
+                <span>
+                    <strong>网上交易</strong><br>
+                    <strong>保障中心</strong>
+                </span>
+            </li>
+            <li>
+                <img src="images/yejiao/ye_r18_c25.jpg" >
+            </li>
+            <li>
+                <span>
+                    <img src="images/yejiao/ye_r18_c32.jpg" >
+                </span>
+                <span>营业执照</span>
+            </li>
+
+            <li><span>
+                    <img src="images/yejiao/ye_r16_c42.jpg" >
+                </span>
+                <span>
+                    <strong>消费者权益之星</strong><br>
+                    <strong>金奖服务</strong>
+                </span>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!--公共页脚结束-->
+
+</body>
+
+
+
+</html>

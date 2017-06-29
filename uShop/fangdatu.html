@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .MagicZoom{
+            position: relative;
+            display: inline-block;
+            text-decoration: none; outline: 0px;
+            overflow: hidden;
+            width: auto;
+            height: auto;
+        }
+        .MagicZoomPup{
+            z-index: 10;
+            position: absolute;
+            overflow: hidden;
+            display: block;
+            visibility: hidden;
+            width: 158px;
+            height: 158px;
+            opacity: 0.5;
+            left: 0px;
+            top: 26px;
+        }
+        .MagicZoomHint{
+            display: block;
+            overflow: hidden;
+            position: absolute;
+            visibility: visible;
+            z-index: 1;
+            left: 2px;
+            right: auto;
+            top: 2px;
+            bottom: auto;
+            opacity: 0.75;
+            max-width: 316px;
+        }
+
+    </style>
+</head>
+<body>
+
+
+<div style="float: right;">
+    <p>A big window of 500x500 pixels.</p>
+
+    <a href="images/mshop01.jpg" rel="zoom-width:500;zoom-height:500; zoom-position: left;" class="MagicZoom" id="zoom-980406623182" title="" >
+
+        <img src="images/mshop02.jpg" style="opacity: 1;">
+        <div class="MagicZoomPup" >
+
+        </div>
+        <div class="MagicZoomHint">Zoom</div>
+    </a>
+</div>
+</body>
+</html>

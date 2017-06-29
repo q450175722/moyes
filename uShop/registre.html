@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>美国购物网注册页面</title>
+</head>
+
+<body>
+<div class="w dl_LOGO">
+    <a href="http://www.usashopcn.com"><img src="/content/images/Index2012/hb_2.jpg?id=1" alt="美国购物网 美国代购首选平台" /></a></div>
+<div class="w">
+
+    <div class="dl_Content dl_Box" onkeypress="return WebForm_FireDefaultButton(event, 'regeditButton');">
+        <form action="/Customer/User/Register" method="post" name="UserRegister">
+
+            <div class="dl_top">
+                <div class="dl_top_left">
+                    <h2 class="User_login Register_login">
+                        会员注册</h2>
+
+                    <span class="dl_top_left_con Register_left_con">您的邮箱：
+                        <input class="dl_top_left_text required" id="Email" name="Email" size="100" type="text" value="" />
+                    </span><span class="dl_top_format" id="espan">填写真实邮箱</span> <span class="dl_top_left_con Register_left_con">
+                        设置密码：<input class="dl_top_left_text" id="Password" name="Password" size="22" type="password" /></span>
+                    <span class="dl_top_format" id="pwspan">密码为6-16位字母或数字</span> <span class="dl_top_left_con Register_left_con">
+                        确认密码：<input class="dl_top_left_text" id="ConfirmPassword" maxlength="22" name="ConfirmPassword" size="22" type="password" /></span>
+                    <span class="dl_top_format" id="cpwspan">密码为6-16位字母或数字</span> <span class="dl_top_left_con Register_left_con">
+                        <font>验证码：</font>
+                        <input class="dl_top_left_text dl_top_left_text_width" id="VerifyCode" maxlength="4" name="VerifyCode" size="22" type="text" value="" />
+                        <span>
+                            <img id="yanzhengma" src="/Verify/Image" onclick="javascript:$(this).attr('src','/Verify/Image?'+ Math.random());" />
+                           <a onclick="javascript:$('#yanzhengma').attr('src','/Verify/Image?'+Math.random());"
+                                   style="cursor: pointer !important;" class="red underline">看不清，换一张</a></span>
+                    </span>
+                    <span class="dl_top_format" id="cspan"></span>
+                    <span class="dl_password_con_yes">
+                    <button type="button" onclick=" Regedit.Register.FillValidate()" id="regeditButton" class="bright_big_botton">同意以下协议，提交注册</button>
+                    <button type="reset" class="gray_botton">重置</button>
+                   </span>
+                </div>
+                <div class="dl_top_right">
+                    <h2 class="User_login Users">
+                        美国购物网会员享受如下服务：</h2>
+                    <ul class="dl_Services">
+                        <li>第一时间了解美国潮流资讯</li>
+                        <li>第一时间获得美国商家打折信息</li>
+                        <li>足不出户，轻松购遍美国</li>
+                    </ul>
+                    <span style="float:left; margin-top:10px;"><h5 class="Other_account">
+                        使用其他账号登录美国购物网：</h5>
+                    <ul class="dl_top_blogging">
+                        <span id="qqLoginBtn"></span>
+
+                        <li class="SINA"><a  href="https://api.weibo.com/oauth2/authorize?client_id=1476648056&response_type=code&redirect_uri=http://www.usashopcn.com/Customer/User/SinaCode">新浪微博</a>&nbsp;</li>
+
+
+                    </ul>
+                    <ul class="dl_top_blogging">
+                        <li class="Everyone"><a href="javascript:void(0)" onclick="renrenLogin('');return false;">
+                            人人网</a>&nbsp;</li>
+                        <li class="Watercress"><a  href="https://www.douban.com/service/auth2/auth?client_id=056443801afa3fca102cca8050eebf5e&redirect_uri=http://www.usashopcn.com/Customer/User/DoubanOAuth2&response_type=code&scope=shuo_basic_r,shuo_basic_w,douban_basic_common"  target="_blank">
+                            豆瓣登陆</a>&nbsp;</li>
+                    </ul>
+                    <a class="Alipay" href="/Customer/User/UseAlipayOAuth"></a></span>
+                </div>
+            </div>
+            <div class="cnName">
+                <strong>美国购物网用户协议</strong>
+                <div class="cnName_con" style="height: 100px; overflow-y: auto; position: relative">
+                    一、注册会员<br />
+                    * 1．用户若同意本条款内容，即可申请会员资格。代购总费用 =美国网站或商店的最终收费+美国购物网代购服务费+ 国际运费+保价费（可选）<br />
+                    * 2．根据上述规定申请会员资格的用户中，属于下列情况之一的，美国购物网有权不准予注册： <br />
+                    1）用户曾经有失去会员资格的事实；(但自失去资格之日起已超过三年，且美国购物网同意其重新注册者除外)<br />
+                    2）提供的资料不真实、不完整、不准确的；<br />
+                    * 3．经过美国购物网批准后，用户的会员注册合同生效。<br />
+                    　　            <font color="red">* 4．凡注册为美国购物网会员，即接受美国购物网的其他规定（包括美国购物网退换货规定、赔偿细则说明等），具体请参考http://www.usashopcn.com/Help/AgentStatutes</font><br />
+                    二、注册注意事项<br />
+                    在登记时，提供真实的、准确的、最新的和完整的个人资料，保持并及时更新上述资料，以保证购物物流投递过程中的准确性。美国购物网不能也不会对因您丢失了身份号码和密码而引起的任何损失或损害承担责任。<br />
+                    三、购货凭证说明<br />
+                    　                美国购物网作为为中国光大客户提供美国购物的平台，所提供的为代购服务。所提供代购凭证为所属订单代购费的发票或者全额收据，可根据客户的需求提供。<br />
+                    三、会员隐私制度<br />
+                    尊重会员个人隐私是美国购物网的基本政策。美国购物网将采取下列方式，尽最大努力保护会员的隐私利益：<br />
+                    *(1)个人信息。 A 个人基本资料：如姓名、性别、年龄、出生日期、身份证号码（或护照号码）、电话、通信地址、住址、电子邮件地址等情况； B个人背景：职业、教育程度、收入状况、婚姻、家庭状况。在未经会员同意及确认之前美国购物网不会将用户的上述个人信息用于其它目的。<br />
+                    *(2)非个人信息。 美国购物网将通过用户的IP地址来收集非个人化的信息，包括用户的浏览器性质、操作系统种类、给用户提供接入服务的ISP的域名等。通过收集上述信息，我们亦进行客流量统计，从而改进网站的管理和服务。<br />
+                    *(3)个人安全。 美国购物网采用安全性的服务器，保护用户的个人信息。<br />
+                    *(4)个人信息的披露和限制利用。 当国家机构依照法定程序要求美国购物网披露个人资料时，美国购物网将根据执法单位的要求或为公共安全目的提供个人资料。在此情况下披露的任何内容，美国购物网不承担任何责任。美国购物网在符合下列条件时，对个人资料进行必要范围以外利用： ① 已取得用户的同意； ② 为免除用户在生命、身体或财产方面之急迫危险； ③ 为防止他人权益之重大危害； ④ 为增进公共利益，而无害于用户的重大利益;<br />
+                    *(4)在发生或者可能发生信息泄露、丢失的情况时，美国购物网也会立即采取补救措施，保障客户信息的安全。<br />
+                    四．注销会员及失去资格<br />
+                    * 1．会员可随时向美国购物网申请注销会员。<br />
+                    * 2．若会员发生下列情况之一的，美国购物网可以限制或停止其会员资格。 <br />
+                    1) 提交不真实注册资料的； <br />
+                    　　                2) 没有按期及时付清订购商品的货款，或使用美国购物网有偿提供的服务后应由会员承担的债务；<br />
+                    　　                3) 妨碍他人使用美国购物网或盗用其资料等，威胁到电子商务秩序的；<br />
+                    　　                4) 利用美国购物网从事法律法规禁止的，或违背公共秩序和社会公德的行为；<br />
+                    　　                5)同一客户注册多个账号的；<br />
+                    五．会员账户及密码<br />
+                    * 1. 美国购物网会员使用的账户和密码只归会员本人使用。<br />
+                    * 2. 会员在了解到本人账户及密码被盗或被第三人使用事实后，应立即通知美国购物网，若不通知，使用正确ID和密码操作的行为，视为会员本人的操作行为。<br />
+                    * 3. 成为美国购物网会员后，不得有下列行为，否则应承担相关法律责任。 <br />1) 申请或变更时填写虚假内容；<br /> 2) 盗用他人信息； <br />3) 侵害美国购物网或其它第三方著作权、商标权、商业机密等知识产权的行为； <br />4) 危害美国购物网系统安全的行为；<br /> 5) 向美国购物网发布淫秽或暴力性信息、视频、音频以及其它违背公共秩序和社会公德的信息； <br />6) 向美国购物网发布有下列内容的信息： A． 泄露国家机密、颠覆国家政权； B． 损害国家荣誉和利益； C． 煽动民族仇恨、民族歧视、破坏民族团结； D． 破坏国家宗教政策、宣扬邪教和封建迷信； E． 散布谣言、扰乱社会秩序、破坏社会稳定； F． 淫秽照片、赌博、暴力、恐怖或教唆犯罪； G． 其它法律、行政法规中包含的禁止内容； <br />7）未经美国购物网同意，在美国购物网内发布任何形式的广告<br />
+                    六．免责声明<br />
+                    美国购物网有义务从技术上保证网站正常运行，尽力避免服务中断或最大限度地缩短中断时间， 以此保证会员的在线交易顺利进行。但如果发生不可抗力或不为美国购物网所控制的事态，致使会员或用户遭受损失（包括但不限于无法正常完成交易、丢失信息或记录等），美国购物网不负有任何责任。<br />
+                    <font color="red">
+                        七.美国购物网代购周期特殊说明<br />
+                        * 1. 美购购物网代购流程时间解析<br />
+                        　                 1）美国网站发货---预计从付款日算起1-7个工作日到达美国转运中心发货(主要取决于美国网站处理订单和发货的速度）<br />
+                        2）美国转运中心发货后，清关的时间预计是6-14个工作日（主要取决于海关的清关速度，航班延误海关查验天气等特殊情况除外，产生延迟到货时间延长至1-2个月以上，出现延误情况，此时间为正常代购时间）<br />
+                        3）清关后，海关指定国内快递1-5天左右到您手中。（全程纽约全一快递网上均可查到）<br />
+                        　                 4）出现清关延误情况，最迟3个月内未收到货物，由美国购物网处理先行赔付。<br />
+                        * 2. 7天无理由退货特殊说明<br />
+                        * a).产品编号为J开头的产品，全部在7天无理由退换货（依据《网络交易管理办法》7天无理由退货规定执行）<br />
+                        * b).产品编号非J开头的产品，以美国购物网退换货总则为准<br />
+                        <br />
+                        注释：凡注册为美国购物网会员，即接受此项退换货处理约定，并依此规定处理退换货问题订单。</font>
+
+                </div>
+            </div>
+            <div class="dl_bottom">
+                <h5 class="Other_account Receive password_con">
+                    如果您有问题，欢迎随时提问。</h5>
+                <h5 class="Other_account Receive Problem_Phone">
+                    400-667-7878</h5>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="w Copyright"> <p> Copyright&nbsp;&nbsp;2005-2012&nbsp;&nbsp;美国购物网&nbsp;&nbsp;All
+    Rights Reserved&nbsp;&nbsp;鲁ICP证11012501号-2</p> <span><a target="_blank" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=usashopcn.com&lang=zh_cn">
+    <img src="/Content/images/Index2012/index1_r12_c6.gif" alt="veriSign"
+    /></a> <a target="_blank" href="http://www.315online.com.cn/member/315080082.html">
+    <img src="/Content/images/Index2012/index1_r12_c8.gif" alt="网上交易保障中心"
+    /></a> <a target="_blank" href="http://www.usashopcn.com/Help/license"> <img src="/Content/images/Index2012/index1_r12_c10.gif"
+        alt="营业执照副本" /></a> <a target="_blank" href="http://jinan.cyberpolice.cn"> <img
+        src="/Content/images/Index2012/index1_r12_c12.gif" alt="网络110报警服务"
+/></a> <a target="_blank" href="http://net.china.com.cn/index.htm"> <img src="/Content/images/Index2012/index1_r12_c15.gif"
+        alt="不良信息举报中心" /></a> <a target="_blank" href="http://www.usashopcn.com/News/Details/70185">
+    <img src="/Content/images/Index2012/xf_r2_c2.jpg" alt="消费者权益之星金质服务奖"
+    /></a> </span> </div>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-15295950-1']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<script type="text/javascript">
+    if (window.location.protocol == "http:") {
+        window.document.write("<script type='text/javascript' src='http://static.connect.renren.com/js/v1.0/FeatureLoader.jsp'><\/script>");
+    }
+</script>
+<script type="text/javascript">
+    if (window.location.protocol == "http:") {
+        XN_RequireFeatures(["EXNML"], function () {
+            XN.Main.init("e3312618222645538c3738070721410d", "http://" + window.location.host + "/xd_receiver.html", { 'permsToRequestOnConnect': 'publish_feed', "doNotUseCachedConnectState": true });
+            if (window.location.search.indexOf("flag=1") != -1)
+                renrenLogin();
+        });
+    }
+
+    function renrenLogin() {
+        var pams = "";
+        if (window.location.search == "") {
+            pams = "?flag=1";
+        } else {
+            pams = window.location.search + "&flag=1"
+        }
+
+        if (window.location.protocol == "https:") {
+            window.location = "http://www.usashopcn.com/Customer/User/login" + pams;
+            return;
+        }
+
+        XN.Connect.requireSession(
+            function () {
+                window.location = "/Customer/User/UseRenRenOAuth";
+            });
+    }
+</script>
+<script type="text/javascript">
+    //插入QQ登录按钮
+    QC.Login.insertButton
+    ({
+        btnId: 'qqLoginBtn',    //要插入QQ登录按钮的html标签，必须
+        size: 'C_S',            //按钮样式 （A/B/C代表三种样式。S/M/L/XL代表尺寸）
+        //包括：A_S，A_M，A_L，A_XL，B_S，B_M，B_L，C_S
+        clientId: '100236511',    //申请时分配的appid，必须
+        scope: 'get_user_info',            // 授权范围，可选
+        redirectURI: 'www.usashopcn.com/Customer/User/QQLogin'       //回调地址，可选
+    });
+</script>
+<script src="//configch2.veinteractive.com/tags/FA04C298/4C05/4387/BACA/1F77F61B464E/tag.js" type="text/javascript" async></script>
+</body>
+</html>

@@ -1,0 +1,758 @@
+{
+
+  "main_1": [
+    {
+      "id": 100,
+      "class":"m1_top",
+      "img": "ye01.png",
+      "h3":"秒杀团购",
+      "solo":"sale",
+      "note":"众里寻“团”，尽在美购团购秒杀区；每日一团，惊喜不断！"
+    },
+    {
+      "id": 101,
+      "class":"m1_Com",
+      "img": "mshop01.jpg",
+      "co_name":"团购 正品代购美国卡雷小子Caribbean Sol防晒霜 SPF30 6oz",
+      "nowPrice":"特价: ￥188",
+      "oldPrice":"￥228"
+    },
+    {
+      "id": 102,
+      "class":"m1_Com",
+      "img": "mshop02.jpg",
+      "co_name":"团购 正品代购美国卡雷小子Caribbean Sol晒后修复凝胶 6oz",
+      "nowPrice":"特价: ￥188",
+      "oldPrice":"￥228"
+    },
+    {
+      "id": 103,
+      "class":"m1_Com",
+      "img": "mshop03.jpg",
+      "co_name":"团购 美国正品代购GNC健安喜燃脂减肥公式Burn60减肥塑身60粒955522",
+      "nowPrice":"特价: ￥59",
+      "oldPrice":"￥179"
+    },
+    {
+      "id": 104,
+      "class":"m1_list",
+      "img": "mshop02.jpg",
+      "co_name":"团购 正品代购美国卡雷小子Caribbean Sol晒后修复凝胶 6oz",
+      "nowPrice":"特价: ￥188",
+      "oldPrice":"￥228"
+    },
+    {
+      "id": 105,
+      "class":"m1_Com02",
+      "img": "mshop02.jpg",
+      "co_name":"团购 正品代购美国卡雷小子Caribbean Sol晒后修复凝胶 6oz",
+      "nowPrice":"特价: ￥188",
+      "oldPrice":"￥228"
+    },
+    {
+      "id": 106,
+      "class":"m1_Com02",
+      "img": "mshop02.jpg",
+      "co_name":"团购 正品代购美国卡雷小子Caribbean Sol晒后修复凝胶 6oz",
+      "nowPrice":"特价: ￥188",
+      "oldPrice":"￥228"
+    },
+    {
+      "id": 107,
+      "class":"m1_Com02",
+      "img": "mshop02.jpg",
+      "co_name":"团购 正品代购美国卡雷小子Caribbean Sol晒后修复凝胶 6oz",
+      "nowPrice":"特价: ￥188",
+      "oldPrice":"￥228"
+    },
+    {
+      "id": 108,
+      "class":"m1_Com02",
+      "img": "mshop02.jpg",
+      "co_name":"团购 正品代购美国卡雷小子Caribbean Sol晒后修复凝胶 6oz",
+      "nowPrice":"特价: ￥188",
+      "oldPrice":"￥228"
+    }
+
+  ],
+
+  "main_2": [
+    {
+      "id": 200,
+      "class":"m2_top",
+      "img": "ye02.png",
+      "h3":"精品推荐专区",
+      "solo":" Recommended",
+      "note":"营养保健品 | 美容护肤品 | 精品箱包 | 品牌服装"
+    },
+    {
+      "id": 201,
+      "class":"lbo1",
+      "img": "mshop201.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 202,
+      "class":"lbo1",
+      "img": "mshop202.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 203,
+      "class":"lbo1",
+      "img": "mshop203.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 204,
+      "class":"lbo1",
+      "img": "mshop204.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 205,
+      "class":"lbo1",
+      "img": "mshop205.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 206,
+      "class":"lbo1",
+      "img": "mshop206.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 207,
+      "class":"lbo1",
+      "img": "mshop207.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 208,
+      "class":"lbo1",
+      "img": "mshop208.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 209,
+      "class":"lbo1",
+      "img": "mshop209.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣扣COCO女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+
+    {
+      "id": 211,
+      "class":"lbo2",
+      "img": "mshop211.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 212,
+      "class":"lbo2",
+      "img": "mshop212.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 213,
+      "class":"lbo2",
+      "img": "mshop213.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 214,
+      "class":"lbo2",
+      "img": "mshop214.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 215,
+      "class":"lbo2",
+      "img": "mshop215.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 216,
+      "class":"lbo2",
+      "img": "mshop216.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 217,
+      "class":"lbo2",
+      "img": "mshop217.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 218,
+      "class":"lbo2",
+      "img": "mshop218.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 219,
+      "class":"lbo2",
+      "img": "mshop219.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣扣COCO女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+
+    {
+      "id": 221,
+      "class":"lbo3",
+      "img": "mshop221.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 222,
+      "class":"lbo3",
+      "img": "mshop222.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 223,
+      "class":"lbo3",
+      "img": "mshop223.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 224,
+      "class":"lbo3",
+      "img": "mshop224.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 225,
+      "class":"lbo3",
+      "img": "mshop225.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 226,
+      "class":"lbo3",
+      "img": "mshop226.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 227,
+      "class":"lbo3",
+      "img": "mshop227.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 228,
+      "class":"lbo3",
+      "img": "mshop228.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 229,
+      "class":"lbo3",
+      "img": "mshop229.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣扣COCO女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+
+    {
+      "id": 231,
+      "class":"lbo4",
+      "img": "mshop231.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 232,
+      "class":"lbo4",
+      "img": "mshop232.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 233,
+      "class":"lbo4",
+      "img": "mshop233.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 234,
+      "class":"lbo4",
+      "img": "mshop234.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 235,
+      "class":"lbo4",
+      "img": "mshop235.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 236,
+      "class":"lbo4",
+      "img": "mshop236.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 237,
+      "class":"lbo4",
+      "img": "mshop237.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 238,
+      "class":"lbo4",
+      "img": "mshop238.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00"
+    },
+    {
+      "id": 239,
+      "class":"lbo4",
+      "img": "mshop239.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣扣COCO女士凉鞋",
+      "nowPrice":"￥6937.00"
+    }
+
+  ],
+
+  "main_3": [
+    {
+      "id": 300,
+      "class":"m3_top",
+      "img": "ye03.png",
+      "h3":"服饰代购专区",
+      "solo":"dress",
+      "note":"春装"
+    },
+    {
+      "id": 307,
+      "class":"m3_ad",
+      "img": "m3_adver.jpg"
+    },
+    {
+      "id": 301,
+      "class":"m3_Com",
+      "img": "mshop31.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 302,
+      "class":"m3_Com",
+      "img": "mshop32.png",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 303,
+      "class":"m3_Com",
+      "img": "mshop33.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 304,
+      "class":"m3_Com",
+      "img": "mshop34.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 305,
+      "class":"m3_Com",
+      "img": "mshop35.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 306,
+      "class":"m3_Com",
+      "img": "mshop36.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    }
+
+  ],
+
+  "main_4": [
+    {
+      "id": 400,
+      "class":"m4_top",
+      "img": "ye04.png",
+      "h3":"箱包配饰专区",
+      "solo":"Bag & Accessories",
+      "note":"送礼首选"
+    },
+    {
+      "id": 401,
+      "class":"m4_Com",
+      "img": "mshop31.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 402,
+      "class":"m4_Com",
+      "img": "mshop32.png",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 403,
+      "class":"m4_Com",
+      "img": "mshop33.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 404,
+      "class":"m4_Com",
+      "img": "mshop34.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 405,
+      "class":"m4_Com",
+      "img": "mshop35.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 406,
+      "class":"m4_Com",
+      "img": "mshop36.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 407,
+      "class":"m4_ad",
+      "img": "m4_adver.jpg"
+    }
+
+  ],
+
+  "main_5": [
+    {
+      "id": 500,
+      "class":"m5_top",
+      "img": "ye05.png",
+      "h3":"化妆品代购专区",
+      "solo":"Cosmetics",
+      "note":"<span><a href='javascript:;'>雅诗兰黛</a><em>&nbsp;  | &nbsp; </em><a href='javascript:;'>倩碧</a><em> &nbsp; |&nbsp;  </em><a href='javascript:;'>兰蔻</a><em> &nbsp; |  &nbsp;</em><a href='javascript:;'>海蓝之谜</a><em> &nbsp; |  &nbsp;</em><a href='javascript:;'>迪奥</a><em>  &nbsp;| &nbsp; </em><a href='javascript:;'>娇韵诗</a><em>  &nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;</em></span>"
+    },
+    {
+      "id": 507,
+      "class":"m5_ad",
+      "img": "m5_adver.jpg"
+    },
+    {
+      "id": 501,
+      "class":"m5_Com",
+      "img": "mshop51.gif",
+      "co_name":"LaMer海蓝之谜女士浓缩修护眼霜15ml",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 502,
+      "class":"m5_Com",
+      "img": "mshop52.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 503,
+      "class":"m5_Com",
+      "img": "mshop53.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 504,
+      "class":"m5_Com",
+      "img": "mshop54.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 505,
+      "class":"m5_Com",
+      "img": "mshop55.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 506,
+      "class":"m5_Com",
+      "img": "mshop56.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    }
+
+  ],
+
+  "main_6": [
+    {
+      "id": 600,
+      "class":"m6_top",
+      "img": "ye06.png",
+      "h3":"营养保健专区",
+      "solo":"Health Supplies",
+      "note":"瑞斯迈 |  GNC |  百傲钙 |  巴西蜂胶 |  Puritan's Pride |  纽曼斯 |  L'ilCritters"
+    },
+    {
+      "id": 601,
+      "class":"m6_Com",
+      "img": "mshop61.jpg",
+      "co_name":"Uniflora优福巴西原装绿蜂胶萃取液55度加强型30 ml提高抵抗力【特价折扣】",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 602,
+      "class":"m6_Com",
+      "img": "mshop62.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 603,
+      "class":"m6_Com",
+      "img": "mshop63.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 604,
+      "class":"m6_Com",
+      "img": "mshop64.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 605,
+      "class":"m6_Com",
+      "img": "mshop65.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 606,
+      "class":"m6_Com",
+      "img": "mshop66.jpg",
+      "co_name":"美国正品代购Gucci尖头低跟金色方形扣女士凉鞋",
+      "nowPrice":"￥6937.00",
+      "oldPrice":"￥7199.00"
+    },
+    {
+      "id": 607,
+      "class":"m6_ad",
+      "img": "m4_adver.jpg"
+    }
+
+  ],
+
+  "main_7": [
+    {
+      "id": 700,
+      "class":"m7_top",
+      "img": "ye07.png",
+      "h3":"热门代购品牌",
+      "solo":"Hot Brand",
+      "note":"来自大洋彼岸的浓情问候，名品之选，您值得拥有！"
+    },
+    {
+      "id": 701,
+      "class":"brand",
+      "img": "b1.jpg"
+    },
+    {
+      "id": 702,
+      "class":"brand",
+      "img": "b2.jpg"
+    },
+    {
+      "id": 703,
+      "class":"brand",
+      "img": "b3.jpg"
+    },
+    {
+      "id": 704,
+      "class":"brand",
+      "img": "b4.jpg"
+    },
+    {
+      "id": 705,
+      "class":"brand",
+      "img": "b5.jpg"
+    },
+    {
+      "id": 706,
+      "class":"brand",
+      "img": "b6.jpg"
+    },
+    {
+      "id": 707,
+      "class":"brand",
+      "img": "b7.jpg"
+    },
+    {
+      "id": 708,
+      "class":"brand",
+      "img": "b8.jpg"
+    },
+    {
+      "id": 709,
+      "class":"brand",
+      "img": "b9.jpg"
+    },
+    {
+      "id": 710,
+      "class":"brand",
+      "img": "b10.jpg"
+    },
+    {
+      "id": 711,
+      "class":"brand",
+      "img": "b11.jpg"
+    },
+    {
+      "id": 712,
+      "class":"brand",
+      "img": "b12.jpg"
+    },
+    {
+      "id": 713,
+      "class":"brand",
+      "img": "b13.jpg"
+    },
+    {
+      "id": 714,
+      "class":"brand",
+      "img": "b14.jpg"
+    },
+    {
+      "id": 715,
+      "class":"brand",
+      "img": "b15.jpg"
+    },
+    {
+      "id": 716,
+      "class":"brand",
+      "img": "b16.jpg"
+    },
+    {
+      "id": 717,
+      "class":"brand",
+      "img": "b17.jpg"
+    },
+    {
+      "id": 718,
+      "class":"brand",
+      "img": "b18.jpg"
+    },
+    {
+      "id": 719,
+      "class":"brand",
+      "img": "b19.jpg"
+    },
+    {
+      "id": 720,
+      "class":"brand",
+      "img": "b20.jpg"
+    },
+    {
+      "id": 721,
+      "class":"brand",
+      "img": "b21.jpg"
+    },
+    {
+      "id": 722,
+      "class":"brand",
+      "img": "b22.jpg"
+    },
+    {
+      "id": 723,
+      "class":"brand",
+      "img": "b23.jpg"
+    },
+    {
+      "id": 724,
+      "class":"brand",
+      "img": "b24.jpg"
+    },
+    {
+      "id": 725,
+      "class":"brand",
+      "img": "b25.jpg"
+    },
+    {
+      "id": 726,
+      "class":"brand",
+      "img": "b26.jpg"
+    },
+    {
+      "id": 727,
+      "class":"brand",
+      "img": "b27.jpg"
+    },
+    {
+      "id": 728,
+      "class":"brand",
+      "img": "b28.jpg"
+    }
+
+
+  ]
+}
